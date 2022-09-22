@@ -14,3 +14,11 @@ Since TypeScript cannot handle type information for `.vue` imports, they are shi
 2. Reload the VS Code window by running `Developer: Reload Window` from the command palette.
 
 You can learn more about Take Over mode [here](https://github.com/johnsoncodehk/volar/discussions/471).
+
+
+## Project Setup
+
+Vite requires Node.js version 14.18+, 16+ make sure you have updated version then run following commands
+1) run `npm install`
+2) run `npm run dev`
+
